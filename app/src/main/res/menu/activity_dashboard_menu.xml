@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_action_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/userprofile"
+            android:icon="@drawable/ic_action_profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/user_achiev"
+            android:icon="@drawable/ic_action_admin_access"
+            android:title="Admin Access" />
+        <item
+            android:id="@+id/user_messages"
+            android:icon="@drawable/ic_action_messages"
+            android:title="Messages" />
+
+        <item
+            android:id="@+id/feedback"
+            android:icon="@drawable/ic_action_feedback"
+            android:title="Rate Us" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_action_logout"
+            android:title="Logout" />
+    </group>
+
+</menu>

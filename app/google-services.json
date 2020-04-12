@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "886663492839",
+    "firebase_url": "https://labboapp.firebaseio.com",
+    "project_id": "labboapp",
+    "storage_bucket": "labboapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886663492839:android:c31d1c520b41df13409e42",
+        "android_client_info": {
+          "package_name": "com.coding.pixel.labboapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886663492839-nn7n0l0gr3c457g746sbld30ub1fn10b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coding.pixel.labboapp",
+            "certificate_hash": "52aff9573392d3134c3a037129758a13bab66950"
+          }
+        },
+        {
+          "client_id": "886663492839-58smg3vh7h95u5eq7fb7ao1et2dlukr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_kOi0jv9NPmeuCms7BuwKRryl2VqFqzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886663492839-58smg3vh7h95u5eq7fb7ao1et2dlukr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
